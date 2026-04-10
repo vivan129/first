@@ -1,7 +1,7 @@
 # Project Context
 
-- Detected type: notes
-- File count: 8
+- Detected type: misc
+- File count: 9
 - Generated on: 2026-04-10
 
 ## Key Files
@@ -10,6 +10,7 @@
 - `image-1.png`
 - `CONTRIBUTING.md`
 - `README.md`
+- `docs/PROJECT_CONTEXT.md`
 - `QUICKSTART.md`
 - `first.md`
 - `LICENSE`
